@@ -31,5 +31,5 @@
 
 ## 📫 Connect with Me:
 
-- 📧 **Email**: [harshvardhan@example.com](mailto:harshvardhan@example.com)  
+- 📧 **Email**: [harshvardhanch7@gmail.com](mailto:harshvardhanch7@gmail.com)  
   
