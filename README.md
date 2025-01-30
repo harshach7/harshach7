@@ -32,4 +32,4 @@
 ## 📫 Connect with Me:
 
 - 📧 **Email**: [harshvardhan@example.com](mailto:harshvardhan@example.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/harshvardhan-chavan](https://linkedin.com/in/harshvardhan-chavan)  
+  
